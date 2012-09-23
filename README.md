@@ -1,6 +1,10 @@
 RST-Designer
 ============
 
+                   ------------   To launch the interface run the file RST-Designer.m   ------------
+
+
+
 - Compute RST controller given a model of the system and the reference model
 - Compute RST controller with a smooth command
 - Add integrators
