@@ -3,19 +3,19 @@ RST-Designer
 
                    ------------   To launch the interface run the file RST-Designer.m   ------------
 
-
+With this program you can:
 
 - Compute RST controller given a model of the system and the reference model
 - Compute RST controller with a smooth command
 - Add integrators
-- Choice of the relative and absolute damping conditions
-- Choice of the sampling time
-- Choice of observator polynomial A0
-- Choice of  auxiliary polynomial Pa
+- Choose the relative and absolute damping conditions
+- Choose the sampling time
+- Choose the observator polynomial A0
+- Choose the auxiliary polynomial Pa
 - Display several graphics: poles, step response, sensibility...
-- Comparison of the last two controllers
-- Drag cancellation
-- Choice of fix terms
+- Compare the last two controllers
+- Cancel the drag
+- Choose the fix terms
 
 The default parameters are:
   - No integrator
